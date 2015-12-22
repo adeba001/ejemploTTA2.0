@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EJEMPLO TTA 2.0</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="main_user">Usuario:</string>
+    <string name="menu_usuario">Usuario</string>
+    <string name="menu_usuario_contenido">Introduce DNI</string>
+    <string name="menu_password">Contraseña</string>
+    <string name="menu_password_contenido">Introduce Contraseña</string>
+    <string name="menu_boton_acceder">Acceder</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="menu_leccion">Lección 1: Introducción a Android</string>
+    <string name="menu_test">Nuevo Test</string>
+    <string name="menu_ejercicio">Nuevo ejercicio</string>
+    <string name="menu_seguimiento">Seguimiento</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="test_button_send">Enviar</string>
+    <string name="title_activity_exervise">ExerviseActivity</string>
+    <string name="title_activity_exercise">ExerciseActivity</string>
+    <string name="exercise_fichero">Subir Fichero</string>
+    <string name="exercise_foto">Sacar Foto</string>
+    <string name="exercise_audio">Grabar Audio</string>
+    <string name="exercise_video">Grabar Video</string>
+    <string name="exercise_encabezado">Explica como aplicarias el patron de diseño MVC en el desarrollo de una app para Android</string>
+    <string name="no_camera">No posee camara para realizar la accion selecionada</string>
+    <string name="no_app">No se dispone de aplicacion de camara</string>
+    <string name="no_micro">No se dispone de aplicacion microfono</string>
+</resources>
